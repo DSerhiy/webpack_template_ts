@@ -1,2 +1,2 @@
-import './js/common.js';
+import './ts/common.ts';
 import './scss/main.scss';
